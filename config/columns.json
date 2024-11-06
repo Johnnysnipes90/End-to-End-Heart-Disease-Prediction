@@ -1,0 +1,1 @@
+{"age": "float64", "sex": "object", "cp": "object", "trestbps": "float64", "chol": "int64", "fbs": "object", "restecg": "int64", "thalach": "float64", "exang": "object", "oldpeak": "float64", "slope": "object", "ca": "float64", "thal": "object", "status": "object", "Unnamed: 14": "float64", "Unnamed: 15": "float64"}
