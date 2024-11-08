@@ -72,7 +72,7 @@ Before setting up the project, ensure you have the following installed:
 
 ### 1. Clone the Repository
 
-```bash
+`bash`
 git clone https://github.com/Johnnysnipes90/End-to-End-Heart-Disease-Prediction.git
 cd End-to-End-Heart-Disease-Prediction
 
