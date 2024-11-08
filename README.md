@@ -25,7 +25,6 @@ Before setting up the project, ensure you have the following installed:
 - Docker (for containerization, optional)
 - Numpy
 - Scikit-learn
-- XGBoost
 - Flask (if using for deployment)
 - Streamlit (optional for app visualization)
 
