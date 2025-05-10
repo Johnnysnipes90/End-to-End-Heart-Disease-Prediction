@@ -33,6 +33,38 @@ This dataset will be used to analyze and predict heart disease presence in patie
 ## Project Structure
 
 ## Project Structure
+End-to-End-Heart-Disease-Prediction/
+│
+├── config/                            # Configuration files for preprocessing and mappings
+│   ├── age_group.json
+│   ├── columns.json
+│   ├── cp.json
+│   ├── slope.json
+│   ├── thal.json
+│   └── training_columns.json
+│
+├── dataset/                           # Dataset files for analysis
+│   ├── combined_df.csv
+│   ├── northern_df.csv
+│   └── southern_df.csv
+│
+├── image/                             # Images and visuals
+│   └── streamlit_app_screenshot.png
+│
+├── model/                             # Trained and saved machine learning models
+│   └── best_rf_model.joblib
+│
+├── notebooks/                         # Jupyter notebooks for EDA and experimentation
+│   └── notebook.ipynb
+│
+├── src/                               # Data processing module
+│   └── preprocess.py                  # Data preprocessing and feature engineering
+│
+├── app.py                             # Flask API for model deployment
+├── streamlit.py                       # Streamlit web app for interactive prediction
+├── requirements.txt                   # List of required Python packages
+└── README.md                          # Project documentation
+
 
 Here’s an overview of the project structure:
 
