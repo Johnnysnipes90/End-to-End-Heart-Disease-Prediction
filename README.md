@@ -31,7 +31,7 @@ This dataset will be used to analyze and predict heart disease presence in patie
 - Analyze feature importance and risk factors associated with heart disease.
 - Use data-driven insights to assist healthcare professionals in patient assessment.
 ## Project Structure
-
+```
 End-to-End-Heart-Disease-Prediction/
 │
 ├── config/                            # Configuration files for preprocessing and mappings
@@ -63,7 +63,7 @@ End-to-End-Heart-Disease-Prediction/
 ├── streamlit.py                       # Streamlit web app for interactive prediction
 ├── requirements.txt                   # List of required Python packages
 └── README.md                          # Project documentation
-
+```
 
 Here’s an overview of the project structure:
 
